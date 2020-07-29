@@ -1,4 +1,10 @@
-### Hi there 👋
+## Halo semua, nama saya Baskoro Adi Wicaksono👋
+
+### Social Media : 
+
+- Website : [baskoroadi.com](https://baskoroadi.com)
+- Telegram : [t.me/baskoroadiw](https://t.me/baskoroadiw)
+- Instagram : [@baskoroadii](https://www.instagram.com/baskoroadii)
 
 <!--
 **baskoroadiw/baskoroadiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
