@@ -2,7 +2,9 @@
 
 ### Social Media : 
 
-- Website : [baskoroadi.com](https://baskoroadi.com)
+- LinkedIn : [in/baskoroadiw](https://www.linkedin.com/in/baskoroadiw)
+
+- My Website : [baskoroadi.com](https://baskoroadi.com)
 - Telegram : [t.me/baskoroadiw](https://t.me/baskoroadiw)
 - Instagram : [@baskoroadii](https://www.instagram.com/baskoroadii)
 
