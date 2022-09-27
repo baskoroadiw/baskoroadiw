@@ -5,7 +5,7 @@
 - LinkedIn : [in/baskoroadiw](https://www.linkedin.com/in/baskoroadiw)
 
 - My Website : [baskoroadi.com](https://baskoroadi.com)
-- Telegram : [t.me/baskoroadiw](https://t.me/baskoroadiw)
+- Telegram : [baskoroadiw.t.me](https://baskoroadiw.t.me)
 - Instagram : [@baskoroadii](https://www.instagram.com/baskoroadii)
 
 <!--
