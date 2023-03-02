@@ -1,6 +1,11 @@
 ## Hello, Welcome Everyone👋
 
 I'm **Baskoro Adi Wicaksono**. I have a high interest in Web Programming and Artificial Intelligence.
+
+- 🔭 I’m currently working on [Qiwii](https://qiwii.id) as a Web Developer.
+- 🌱 I’m currently learning Laravel, Codeigniter, Tailwind CSS, ReactJS, NextJS.
+
+
 <!--
 
 ### Social Media : 
