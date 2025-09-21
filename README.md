@@ -2,7 +2,7 @@
 
 I'm **Baskoro Adi Wicaksono**. I have a high interest in Web Programming and Artificial Intelligence.
 
-- 🔭 I’m currently working on [Gadjah Mada University](https://ugm.ac.id) as a Information System Developer.
+- 🔭 I’m currently working on [Gadjah Mada University](https://ugm.ac.id) as an Information System Developer.
 - 🌱 I’m currently learning Laravel, Codeigniter, Tailwind CSS, ReactJS, NextJS.
 
 
